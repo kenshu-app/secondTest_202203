@@ -1,5 +1,7 @@
 # 見出しh1
 
+![](https://img.shields.io/badge/左側の文字-右側の文字-ff0000.svg)
+
 ## 見出しh2
 
 段落1 /* 1行空ける */
